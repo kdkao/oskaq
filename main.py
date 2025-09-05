@@ -3,8 +3,8 @@ import concurrent.futures
 
 # آدرس‌هایی که لیست سرورها توشونه
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/lagzian/SS-Collector/refs/heads/main/VLESS/VL100.txt",
-    "https://raw.githubusercontent.com/AliDev-ir/FreeVPN/main/vpn"
+    "https://raw.githubusercontent.com/lagzian/SS-Collector/refs/heads/main/VLESS/VL100.txt"
+
 ]
 
 def fetch_links(url):
